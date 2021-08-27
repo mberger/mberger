@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Michael
+### Hi there 👋  I'm Michael
 
 <a href="https://github.com/mberger/Resume">My Resume</a>
 
