@@ -1,4 +1,4 @@
-# Getting started with Kind: quick start a multi-node local Kubernetes cluster
+# Getting started with Kind: multi-node local Kubernetes cluster
 
 Kind, also know as Kubernetes in Docker is a tool for creating a local Kubernetes cluster using a Docker container. In this article, we are going to learn:
 
