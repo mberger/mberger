@@ -169,7 +169,7 @@ A Kubernetes service is an abstraction that defines a logical set of pods (usual
 
 To create a Kubernetes service of type ClusterIP, copy the following code in service.yaml and run command kubectl apply -f service.yaml.
 
-</pre>apiVersion: v1
+<pre>apiVersion: v1
 kind: Service
 metadata:
   name: product-service
@@ -255,7 +255,11 @@ nodes:
 
 Notice, hostPort: 81 in extraPortMappings. This exposes Ingress controller over port 81.
 
-To install the NGINX Ingress controller, run command kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/provider/kind/deploy.yaml. This command creates pods in an ingress-nginx namespace, which acts as an Ingress controller.
+To install the NGINX Ingress controller, run command:
+
+<code>kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/provider/kind/deploy.yaml. </code>
+
+This command creates pods in an ingress-nginx namespace, which acts as an Ingress controller.
 
 <pre>
 namespace/ingress-nginx created
@@ -297,10 +301,11 @@ If you get error ‘Error: Internal error occurred: failed calling webhook “va
 
 If you run kubectl get ingress command again you can see the address assigned to localhost.
 
+<pre>
 NAME          CLASS    HOSTS   ADDRESS     PORTS   AGE
 app-ingress   <none>   *       localhost   80      22s
 Now you can access your application using postman as
-
+</pre>
 <img src="https://techdozo.dev/wp-content/uploads/2021/06/image-10.png">
 
 
