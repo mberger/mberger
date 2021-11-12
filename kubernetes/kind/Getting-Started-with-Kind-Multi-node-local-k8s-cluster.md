@@ -1,4 +1,4 @@
-# Getting started with Kind: multi-node local Kubernetes cluster
+# Getting started with Kind: [multi node](multi-node) local Kubernetes cluster
 
 Kind, also know as Kubernetes in Docker is a tool for creating a local Kubernetes cluster using a Docker container. In this article, we are going to learn:
 
@@ -115,7 +115,7 @@ To validate if the pod is created successfully run command kubectl get pods -o w
 
 <pre>
 NAME          READY   STATUS    RESTARTS   AGE   IP           NODE                      NOMINATED NODE   READINESS GATES
-product-svc   1/1     Running   0          84s   10.244.2.2   kind-multi-node-worker2              
+product-svc   1/1     Running   0          84s   10.244.2.2   kind-multi-node-worker2
 </pre>
 
 Note that -o wide option tells you that this particular pod is deployed on the node kind-multi-node-worker2.
