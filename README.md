@@ -9,7 +9,14 @@
 <!--
 **mberger/mberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<center>
+
+   <p align="left"> 
+      <a href="https://github.com/mberger?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mberger?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/mberger?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mberger?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 :toolbox: Languages and Tools 
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -22,7 +29,10 @@
 </br>
 </br>
 <hr>
-</center>
+<a href="https://github.com/mberger/aws-stuff">
+<img alt="AWS scripts Github Repo" title="AWS-Scripts Github Repo" src="https://img.shields.io/github/languages/top/mberger/aws-stuff?color=green&logo=github&logoColor=orange&style=plastic/">
+</a>
+
 ## Some info about me 
 
 
