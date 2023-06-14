@@ -49,4 +49,4 @@
 - ⚡ Fun fact: ...
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=500&pause=1000&color=FF9A00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=60&lines=WE+KEEP+MOVING+FORWARD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=5000&pause=1000&color=FF9A00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=60&lines=WE+KEEP+MOVING+FORWARD" alt="Typing SVG" />
