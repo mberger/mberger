@@ -30,8 +30,9 @@
 </br>
 <hr>
 <a href="https://github.com/mberger/aws-stuff">
-<img alt="AWS scripts Github Repo" title="AWS-Scripts Github Repo" src="https://img.shields.io/github/languages/top/mberger/aws-stuff?color=green&logo=github&logoColor=orange&style=plastic/">
-</a>
+
+<!-- <img alt="AWS scripts Github Repo" title="AWS-Scripts Github Repo" src="https://img.shields.io/github/languages/top/mberger/aws-stuff?color=green&logo=github&logoColor=orange&style=plastic/">
+</a> -->
 
 ## Some info about me 
 
