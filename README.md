@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Michael
 
-**`Digital Craftsman`**
+**`Digital Craftsman, head in the cloud.`**
 
 
 
@@ -16,6 +16,14 @@
       <a href="https://github.com/mberger?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mberger?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+<p align="center">
+	<a href="https://twitter.com/mberger"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a rel="me" href="https://fosstodon.org/@terrytangyuan"><img src="imgs/mastodon.svg" alt="Mastodon"></a>
+	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
 
 :toolbox: Languages and Tools 
 
@@ -38,6 +46,7 @@
 
 
 - :christmas_tree: :gift:  [TryHackme Advent of Cyber 2.](https://tryhackme.com/room/adventofcyber2) as well as the [SANS Holiday Hack Challenge](holidayhackchallenge.com) which hasn't started as of Dec 1, but check back as I will link my repos for solutions here.
+- 💬 Ask me about anything [here](https://github.com/mberger/mberger/issues)
 - 🌱 I’m currently learning ... more about security
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -46,7 +55,11 @@
   - <img valign="middle" src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/> [@mberger](https://twitter.com/mberger)
   - <img valign="middle" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>  [GitHub](https://github.com/mberger)
 </svg>
-- ⚡ Fun fact: ...
+
+- ⚡ GitHub Stats: ...
+
+| <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mberger's github stats" /></a> | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=5000&pause=1000&color=FF9A00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=60&lines=WE+KEEP+MOVING+FORWARD" alt="Typing SVG" />
