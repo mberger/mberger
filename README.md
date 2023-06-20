@@ -48,7 +48,7 @@
   - <img valign="middle" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>  [GitHub](https://github.com/mberger)
 </svg>
 
-- ⚡ GitHub Stats: ...
+- ⚡ GitHub Stats: ... private stats upcomint...
 
 | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mberger's github stats" /></a> | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
