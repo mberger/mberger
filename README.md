@@ -17,14 +17,6 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mberger?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<p align="center">
-	<a href="https://twitter.com/mberger"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a rel="me" href="https://fosstodon.org/@terrytangyuan"><img src="imgs/mastodon.svg" alt="Mastodon"></a>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-</p>
-
 :toolbox: Languages and Tools 
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
