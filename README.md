@@ -37,7 +37,7 @@
 ## Some info about me 
 
 
-- :christmas_tree: :gift:  [TryHackme Advent of Cyber 2.](https://tryhackme.com/room/adventofcyber2) as well as the [SANS Holiday Hack Challenge](holidayhackchallenge.com) which hasn't started as of Dec 1, but check back as I will link my repos for solutions here.
+<!-- - :christmas_tree: :gift:  [TryHackme Advent of Cyber 2.](https://tryhackme.com/room/adventofcyber2) as well as the [SANS Holiday Hack Challenge](holidayhackchallenge.com) which hasn't started as of Dec 1, but check back as I will link my repos for solutions here. -->
 - 💬 Ask me about anything [here](https://github.com/mberger/mberger/issues)
 - 🌱 I’m currently learning ... more about security
 - 👯 I’m looking to collaborate on ...
