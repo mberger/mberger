@@ -3,33 +3,19 @@
 `Digital Craftsman, head in the cloud.`
 
 
-
 <a href="https://github.com/mberger/Resume">My Resume</a>
 
 <!--
 **mberger/mberger** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 \-->
 
-:toolbox: Languages and Tools
+<!-- :toolbox: Languages and Tools
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" ></img>
-</br>
-</br>
-<hr>
-<p align="left">
-<a href="https://github.com/mberger?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mberger?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/mberger?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mberger?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-<hr>
-<a href="https://github.com/mberger/aws-stuff">
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" ></img> -→
+
+ 
+
+ </br> </br> <hr> <p align="left"> <a href="https://github.com/mberger?tab=followers"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mberger?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> <a href="https://github.com/mberger?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mberger?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> </p> <hr> <a href="https://github.com/mberger/aws-stuff">
 
 <!-- <img alt="AWS scripts Github Repo" title="AWS-Scripts Github Repo" src="https://img.shields.io/github/languages/top/mberger/aws-stuff?color=green&logo=github&logoColor=orange&style=plastic/">
 </a> -->
