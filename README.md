@@ -35,7 +35,7 @@
     </svg>
 * ⚡ GitHub Stats: ... stats below are for public repos, private stats upcoming...
 
-| <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mberger's github stats" /></a> | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true" alt="Mberger's github stats" /></a> | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger&layout=compact&theme=buefy&hide_border=true" /></a> |
 |----|----|
 
 
