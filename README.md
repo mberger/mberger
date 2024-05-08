@@ -35,8 +35,8 @@
     </svg>
 * ⚡ GitHub Stats: ... stats below are for public repos, private stats upcoming...
 
-| <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true" alt="Mberger's github stats" /></a> | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger&layout=compact&theme=buefy&hide_border=true" /></a> |
-|----|----|
+#| <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true" alt="Mberger's github stats" /></a> | <a href="https://github.com/mberger/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger&layout=compact&theme=buefy&hide_border=true" /></a> |
+#|----|----|
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=5000&pause=1000&color=FF9A00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=60&lines=WE+KEEP+MOVING+FORWARD" alt="Typing SVG" />
